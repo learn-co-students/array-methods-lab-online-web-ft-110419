@@ -1,29 +1,29 @@
 
-def  dogs = ["pittbull","collie","mutt"]
-    puts dog.include?("Bassett")
-end
+ 
+dogs = ["pittbull","collie","mutt"]
+dog.include?("Bassett")
+
 
       
-     #using_sort(array) 
-def cats_names = ["star","passion","lester"]
-  puts cats_names.sort
-end
+      
+cats_names = ["star","passion","lester"]
+cats_names.sort
 
-def mike = ["adams"]
-  puts mike.reverse
-end
 
-def cars = ["honda","mazda","lincoln"]
-  puts cars.first
-end
+ mike = ["adams"]
+ mike.reverse
 
-def cars = ["honda","mazda","lincoln"]
-  puts cars.last
-end
 
-def size_of_balls = ["4","3","1"]
-  puts.size_of_balls> 5
+ cars = ["honda","mazda","lincoln"]
+ cars.first
 
-end
 
-end
+cars = ["honda","mazda","lincoln"]
+cars.last
+
+size_of_balls = ["4","3","1"]
+size_of_balls> 5
+
+
+
+
